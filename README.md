@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Isest123
 - 👀 I’m interested in ...AI
-- 🌱 I’m currently learning java...
-- 💞️ I’m looking to collaborate on .mini projects related java for experience..
+- 🌱 I’m currently learning AI/ML..
+- 💞️ I’m looking to collaborate on .mini projects related java , python
+- for experience..
 - 📫 How to reach me ..chitraakashreddy@gmail.com.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
